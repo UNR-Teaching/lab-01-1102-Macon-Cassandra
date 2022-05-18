@@ -1,0 +1,8 @@
+What has changed? What do you think the `>` in the previous statement did when combined with the `ls` command?
+-It created the newfile.txt in the directory of lab 1
+
+What does it say about `newfile.txt`?
+- that its a new file as well as "Changes to be committed"
+
+What does this command tell you about your files and their contents? You will need to type 'q' to exit the diff viewer.
+-It tells you the changes you've made to that file. Both what you have added and what you deleted.
