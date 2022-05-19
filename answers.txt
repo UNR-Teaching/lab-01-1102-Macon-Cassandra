@@ -6,3 +6,6 @@ What does it say about `newfile.txt`?
 
 What does this command tell you about your files and their contents? You will need to type 'q' to exit the diff viewer.
 -It tells you the changes you've made to that file. Both what you have added and what you deleted.
+
+github username: Macon-Cassandra
+https://github.com/UNR-Teaching/lab-01-1102-Macon-Cassandra
